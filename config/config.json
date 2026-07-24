@@ -1,0 +1,24 @@
+{
+    "aira_name": "AIRA",
+    "version": "0.2.0",
+
+    "ai": {
+        "engine": "ollama",
+        "model": "gemma3:4b",
+        "url": "http://localhost:11434"
+    },
+
+    "voice": {
+        "stt": "vosk",
+        "tts": "voicevox"
+    },
+
+    "avatar": {
+        "enabled": true,
+        "type": "VRM"
+    },
+
+    "memory": {
+        "database": "memory/aira.db"
+    }
+}
