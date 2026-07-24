@@ -1,0 +1,1 @@
+print("AIRA 起動")
