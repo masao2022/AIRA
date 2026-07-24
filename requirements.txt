@@ -1,3 +1,25 @@
-__pycache__/
-.venv/
-*.pyc
+# AIRA v0.3
+
+# HTTP通信（Ollama API）
+requests
+
+
+# 設定・データ処理
+pydantic
+
+
+# Web API（後で使用）
+fastapi
+uvicorn
+
+
+# データベース
+sqlalchemy
+
+
+# 環境変数管理
+python-dotenv
+
+
+# テスト
+pytest
